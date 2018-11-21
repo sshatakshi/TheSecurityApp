@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337733155794",
+    "firebase_url": "https://hackathon-803e1.firebaseio.com",
+    "project_id": "hackathon-803e1",
+    "storage_bucket": "hackathon-803e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337733155794:android:94431c86ac61000f",
+        "android_client_info": {
+          "package_name": "com.saurabh.vaish.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337733155794-35l4c7a0s7fojmqmat8gsim8dle4qh9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saurabh.vaish.womensafety",
+            "certificate_hash": "40828074f9f86fd153d8af5c450b0943b975d828"
+          }
+        },
+        {
+          "client_id": "337733155794-31nvun9k9atktu11j6etjsuto6abbmoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1lMhRr8UCuMXyBdoGka5SeCDcBE_Mjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337733155794-31nvun9k9atktu11j6etjsuto6abbmoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
